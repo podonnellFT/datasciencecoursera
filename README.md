@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for Data Science Coursera projects
+This is my first repo on github
